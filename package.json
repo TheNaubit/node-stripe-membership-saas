@@ -1,21 +1,22 @@
 {
-  "name": "repo-repo",
-  "description": "",
+  "name": "node-stripe-membership-saas",
+  "description": "Inspired by ChickenKyiv node-stripe-membership-saas with some additions, due to inactivity on github",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/NautaDev/node-stripe-membership-saas"
   },
   "keywords": [
     "stripe",
     "subscription",
     "membership",
     "saas",
-    "plan"
+    "plan",
+    "nodejs"
   ],
   "author": {
-    "name": "",
-    "email": "",
+    "name": "Alberto Del Águila",
+    "email": "nautadev@gmail.com",
     "url": ""
   },
   "license": "MIT",
@@ -51,7 +52,6 @@
     "morgan": "~1.9.1",
     "nodemailer": "^4.7.0",
     "nodemailer-express-handlebars": "^3.0.0",
-    "nodemailer-mailgunapi-transport": "0.0.3",
     "passport": "^0.4.0",
     "passport-local": "^1.0.0",
     "pug": "^2.0.0-rc.2",
