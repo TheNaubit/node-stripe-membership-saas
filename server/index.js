@@ -35,7 +35,7 @@ var staticDir;
 
 
 // setup db
-mongoose.connect(secrets.db);
+mongoose.connect(secrets.db, {useNewUrlParser: true, useCreateIndex: true});
 mongoose.connection.on('error', function() {
   console.error('MongoDB Connection Error. Make sure MongoDB is running.');
 });

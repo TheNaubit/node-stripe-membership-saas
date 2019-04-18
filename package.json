@@ -43,6 +43,7 @@
     "express-session": "^1.16.1",
     "express-subdomain": "^1.0.1",
     "express-validator": "^5.3.1",
+    "jshint": "^2.10.2",
     "keystone-email": "^1.1.0",
     "lodash": "^4.17.11",
     "middleware-responder": "^1.0.0",
