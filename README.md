@@ -6,18 +6,18 @@ It is a boilerplate express app for creating a membership/subscription site with
 
 Demo: Coming soon!
 
-# Important: All the following documentation is from the ChickenKyiv/stripe-recurring-membership](https://github.com/ChickenKyiv/stripe-recurring-membership) repo and it probably won't work on this Repo, I will update it soon
-
 ## Running Locally
 
-Make sure you have [Node.js](http://nodejs.org/) and the [Heroku CLI](https://cli.heroku.com/) installed.
+Make sure you have [Node.js](http://nodejs.org/). If you want to deploy it to Heroku, be sure to have the [Heroku CLI](https://cli.heroku.com/) installed.
 
 ```sh
-$ git clone git@github.com:heroku/node-js-getting-started.git # or clone your own fork
-$ cd node-js-getting-started
+$ git clone https://github.com/NautaDev/node-stripe-membership-saas.git # or clone your own fork
+$ cd node-stripe-membership-saas
 $ npm install
 $ npm start
 ```
+
+# Important: All the following documentation is from the ChickenKyiv/stripe-recurring-membership](https://github.com/ChickenKyiv/stripe-recurring-membership) repo and it probably won't work on this Repo, I will update it soon
 
 
 
