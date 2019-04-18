@@ -17,7 +17,7 @@ $ npm install
 $ npm start
 ```
 
-# Important: All the following documentation is from the ChickenKyiv/stripe-recurring-membership](https://github.com/ChickenKyiv/stripe-recurring-membership) repo and it probably won't work on this Repo, I will update it soon
+### Important: All the following documentation is from the ChickenKyiv/stripe-recurring-membership](https://github.com/ChickenKyiv/stripe-recurring-membership) repo and it probably won't work on this Repo, I will update it soon
 
 
 
