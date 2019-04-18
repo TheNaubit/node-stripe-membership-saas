@@ -46,7 +46,6 @@
     "express-validator": "^5.3.1",
     "jshint": "^2.10.2",
     "keystone-email": "^1.1.0",
-    "lodash": "^4.17.11",
     "middleware-responder": "^1.0.0",
     "mongoose": "^5.5.2",
     "morgan": "~1.9.1",
@@ -62,7 +61,6 @@
   },
   "devDependencies": {
     "gulp": "^4.0.0",
-    "main-bower-files": "^2.13.1",
     "nodemon": "^1.18.11"
   }
 }
