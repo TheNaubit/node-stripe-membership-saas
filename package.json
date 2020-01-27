@@ -31,11 +31,11 @@
     "async": "^2.6.2",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.8.4",
-    "bower": "^1.8.8",
     "compression": "^1.7.4",
     "connect-flash": "^0.1.1",
-    "connect-mongo": "^2.0.3",
+    "connect-mongo": "^3.2.0",
     "cookie-parser": "^1.4.4",
+    "core-js": "^3.6.4",
     "cors": "^2.8.5",
     "debug": "^3.2.6",
     "dotenv": "^5.0.0",
@@ -46,18 +46,41 @@
     "express-validator": "^5.3.1",
     "jshint": "^2.10.2",
     "keystone-email": "^1.1.0",
-    "middleware-responder": "^1.0.0",
-    "mongoose": "^5.5.2",
+    "lodash": ">=4.17.12",
+    "lodash.merge": ">=4.6.2",
+    "middleware-responder": {
+      "version": "^1.0.0",
+      "dependencies": {
+        "lodash": {
+          "version": ">=4.17.12"
+        }
+      }
+    },
+    "mongoose": ">=5.7.5",
     "morgan": "~1.9.1",
     "nodemailer": "^4.7.0",
-    "nodemailer-express-handlebars": "^3.0.0",
+    "nodemailer-express-handlebars": "<=4.3.0",
     "passport": "^0.4.0",
     "passport-local": "^1.0.0",
     "pug": "^2.0.0-rc.2",
     "serve-favicon": "~2.4.2",
     "stripe": "^5.0.0",
-    "stripe-webhook-middleware": "^0.2.0",
-    "swig": "^1.4.2"
+    "stripe-webhook-middleware": {
+      "version": "^0.2.0",
+      "dependencies": {
+        "lodash": {
+          "version": ">=4.17.12"
+        }
+      }
+    },
+    "swig": {
+      "version": "^1.4.2",
+      "dependencies": {
+        "uglify-js": {
+          "version": ">=2.6.0"
+        }
+      }
+    }
   },
   "devDependencies": {
     "gulp": "^4.0.0",
