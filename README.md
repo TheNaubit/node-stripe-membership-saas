@@ -11,7 +11,7 @@ Demo: Coming soon!
 Make sure you have [Node.js](http://nodejs.org/). If you want to deploy it to Heroku, be sure to have the [Heroku CLI](https://cli.heroku.com/) installed.
 
 ```sh
-$ git clone https://github.com/NautaDev/node-stripe-membership-saas.git # or clone your own fork
+$ git clone https://github.com/NauCode/node-stripe-membership-saas.git # or clone your own fork
 $ cd node-stripe-membership-saas
 $ npm install
 $ npm start
