@@ -46,7 +46,7 @@
     "express-validator": "^5.3.1",
     "jshint": "^2.10.2",
     "keystone-email": "^1.1.0",
-    "lodash": ">=4.17.12",
+    "lodash": ">=4.17.19",
     "lodash.merge": ">=4.6.2",
     "middleware-responder": {
       "version": "^1.0.0",
