@@ -62,7 +62,7 @@
     "nodemailer-express-handlebars": "<=4.3.0",
     "passport": "^0.4.0",
     "passport-local": "^1.0.0",
-    "pug": "^2.0.0-rc.2",
+    "pug": "^3.0.1",
     "serve-favicon": "~2.4.2",
     "stripe": "^5.0.0",
     "stripe-webhook-middleware": {
